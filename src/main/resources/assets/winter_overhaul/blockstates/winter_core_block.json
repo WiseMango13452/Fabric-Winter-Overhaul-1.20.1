@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "winter_overhaul:block/winter_core_block" },
+    "facing=east": { "model": "winter_overhaul:block/winter_core_block", "y": 90 },
+    "facing=south": { "model": "winter_overhaul:block/winter_core_block", "y": 180 },
+    "facing=west": { "model": "winter_overhaul:block/winter_core_block", "y": 270 }
+  }
+}

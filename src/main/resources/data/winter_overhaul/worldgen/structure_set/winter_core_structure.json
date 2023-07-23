@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "winter_overhaul:winter_core_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1642136474,
+
+    "spacing": 18,
+
+    "separation": 15,
+
+    "type": "minecraft:random_spread"
+  }
+}
